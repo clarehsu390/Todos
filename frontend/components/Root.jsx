@@ -1,5 +1,5 @@
 import { Provider } from 'react-redux';
-import App from './App';
+import App from './App.jsx';
 import React from 'react';
 
 const Root = ({ store }) => (
